@@ -32,7 +32,9 @@ I have a creative eye and love Photography. In my free time, I do Origami or go 
 
 ---
 
-<img align="left" alt="Devansh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devansh-pratap-singh&show_icons=true&hide_border=true" />
+<img align="left" alt="Devansh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devansh-pratap-singh&count_private=true&show_icons=true&hide_border=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devansh-pratap-singh)](https://github.com/devansh-pratap-singh/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/devanshpratapsingh/
 [instagram]: https://www.instagram.com/curios_explorer/
