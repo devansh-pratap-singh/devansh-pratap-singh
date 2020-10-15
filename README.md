@@ -12,6 +12,7 @@ I have a creative eye and love Photography. In my free time, I do Origami or go 
 [<img align="left" title="curios_explorer" alt="curios_explorer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" title="curios_explorer" alt="curios_explorer | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" title="Devansh Pratap Singh" alt="devanshpratapsingh | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/kaggle.svg" />][twitter]
+[<img align="left" title="DEV" alt="DEV" width="26px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--KCRN0Wuf--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/356/ceb8dc0f-a77b-4f89-84da-52216a4286e1.png" />][dev]
 
 <br />
 
@@ -28,7 +29,6 @@ I have a creative eye and love Photography. In my free time, I do Origami or go 
 [<img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
 [<img align="left" title="Git" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
 [<img align="left" title="GitHub" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" title="DEV" alt="DEV" width="26px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--KCRN0Wuf--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/356/ceb8dc0f-a77b-4f89-84da-52216a4286e1.png" />][dev]
 
 <br>
 <br>
@@ -43,7 +43,7 @@ I have a creative eye and love Photography. In my free time, I do Origami or go 
 [instagram]: https://www.instagram.com/curios_explorer/
 [twitter]: https://twitter.com/curios_explorer
 [kaggle]: https://www.kaggle.com/devanshpratapsingh
-[github]: https://github.com/devansh-pratap-singh
 [dev]: https://dev.to/devanshpratapsingh
+[github]: https://github.com/devansh-pratap-singh
 
 <!--https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md>
