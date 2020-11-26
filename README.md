@@ -2,7 +2,7 @@
 
 ## I'm a Front-End Web Developer and a Data Scientist!!!
 
-I'm a Final Year Student at National Institute of Technology, Jamshedpur, India with an interest in Front-End Web Development and Data Science. My goal is to gain experience by working on diverse projects and better my skills for my future endeavours.
+I'm a Final Year Student at National Institute of Technology, Jamshedpur, India with an interest in Front-End Web Development, UI/UX Design and Data Science. My goal is to gain experience by working on diverse projects and better my skills for my future endeavours.
 
 I have a creative eye and love Photography. In my free time, I do Origami or go for an occasional Swim. Also, I like to Watch Movies and T.V. Shows while savouring my favourite foods (Spoiler: Everything is my favourite!!!).
 
